@@ -1,0 +1,16 @@
+
+# HMM profiles
+profileHMM_Dir: "config/profileHMMs"
+
+# prodigal output directories
+proteinSeqDir: "/Users/rebeccachristensen/Desktop/Cremer_Lab_2022/cysteine_utilization_project/main/workflow/out/prodigal/proteinSeq"
+
+# location of strain genomes
+strainGenomeDir: "/Users/rebeccachristensen/Desktop/Cremer_Lab_2022/cysteine_utilization_project/main/config/strain_genomes"
+
+# local directories
+hmmerEnv: "../../workflow/envs/hmmer_local.yml"
+prodigalEnv: "../../workflow/envs/prodigal_local.yml"
+
+geneFile: "config/geneLists/P3_gene_list.txt"
+strainFile: "config/strain_list_pract.txt"

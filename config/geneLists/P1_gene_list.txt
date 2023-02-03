@@ -1,0 +1,9 @@
+methylmalonyl-CoA-mutase-EC5-4-99-2
+methylmalonyl-CoA-epimerase-EC5-1-99-1
+methylmalonyl-CoA-decarboxylaseGamma-KOK23351
+methylmalonyl-CoA-decarboxylaseDelta-KOK23352
+methylmalonyl-CoA-decarboxylaseBeta-KOK20509
+methylmalonyl-CoA-decarboxylaseAlpha-KOK01604
+methylmalonyl-CoA-carboxyltransferase12S-KOK17489
+methylmalonyl-CoA-carboxyltransferase5S-KOK03416
+methylmalonyl-CoA-carboxyltransferase1-3S-KOK17490

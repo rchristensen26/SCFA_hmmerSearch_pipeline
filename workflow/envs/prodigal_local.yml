@@ -1,0 +1,8 @@
+name: prodigal
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - prodigal=2.6.3=hb4d813b_3
+prefix: /Users/rebeccachristensen/rodigal

@@ -1,0 +1,20 @@
+
+# HMM profiles
+profileHMM_Dir: "config/profileHMMs"
+
+# prodigal output directories
+proteinSeqDir: "/scratch/users/reb26/propionate_project/out/prodigal/proteinSeq"
+
+# location of strain genomes
+strainGenomeDir: "/home/groups/quacks/RC/propionate_project/main/config/strain_genomes"
+
+# local directories
+hmmerEnv: "../../workflow/envs/hmmer.yml"
+prodigalEnv: "../../workflow/envs/prodigal.yml"
+
+geneFile: "config/geneLists/"
+strainFile: "config/strain_list.txt"
+
+prodigalProteinSeqDir: "/scratch/users/reb26/propionate_project/out/prodigal/proteinSeq"
+
+hmmOutDir: "/scratch/users/reb26/propionate_project/out/hmmer_search"
